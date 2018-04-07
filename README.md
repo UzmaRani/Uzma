@@ -11,4 +11,4 @@ And link of another file or project
 
 ```
 ### Version: 1.00
-ⒸUzma_Rani[MIT license]()
+ⒸUzma_Rani[MIT license]( https://github.com/UzmaRani/Uzma/blob/master/LICENSE)
